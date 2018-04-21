@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="adappid">ca-app-pub-9910251603200622~4343543387</string>
+    <string name="bottom_footer">ca-app-pub-9910251603200622/6060837786</string>
+    <!-- app_id -->
+    <string name="app_id">1098324256249</string>
+    <!-- package_name -->
+    <string name="package_name">archtectsproductions.floaty_boxxy_release</string>
+    <!-- leaderboard Highscores -->
+    <string name="leaderboard_highscores">CgkI-cvoyfsfEAIQAQ</string>
+</resources>

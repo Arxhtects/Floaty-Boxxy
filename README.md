@@ -1,7 +1,7 @@
 # Floaty-Boxxy
 First Android Game Released On The Google Play Store. Source Code Available.
 
-Google Play Release:
+Google Play Release: https://play.google.com/store/apps/details?id=archtectsproductions.floaty_boxxy_release
 
 Dribble: https://dribbble.com/IAmArchtect
 
